@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: UpFlair-CRT-IN-MACHINE-LEARNING
+Version: 0.0.1
+Author: YASH AGARWAL
+Author-email: yashagarwal123@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

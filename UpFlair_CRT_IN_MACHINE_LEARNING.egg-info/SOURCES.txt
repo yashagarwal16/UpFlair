@@ -1,0 +1,11 @@
+setup.py
+UpFlair_CRT_IN_MACHINE_LEARNING.egg-info/PKG-INFO
+UpFlair_CRT_IN_MACHINE_LEARNING.egg-info/SOURCES.txt
+UpFlair_CRT_IN_MACHINE_LEARNING.egg-info/dependency_links.txt
+UpFlair_CRT_IN_MACHINE_LEARNING.egg-info/requires.txt
+UpFlair_CRT_IN_MACHINE_LEARNING.egg-info/top_level.txt
+src/__init__.py
+src/MatplotLib/__init__.py
+src/analysis_and_visualization/__init__.py
+src/numpy/__init__.py
+src/pandas/__init__.py
